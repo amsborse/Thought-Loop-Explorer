@@ -1,0 +1,117 @@
+[
+  {
+    "id": "rejection",
+    "title": "They didn’t reply",
+    "steps": [
+      { "label": "Trigger", "text": "A message goes unanswered." },
+      { "label": "Interpretation", "text": "Maybe I said something wrong." },
+      { "label": "Emotion", "text": "Anxiety and restlessness." },
+      { "label": "Urge", "text": "Check phone repeatedly." },
+      { "label": "Behavior", "text": "Become distracted or clingy." },
+      { "label": "Consequence", "text": "More tension and less clarity." },
+      { "label": "Belief", "text": "I need reassurance to feel okay." }
+    ],
+    "interruptions": [
+      {
+        "stage": "Interpretation",
+        "text": "Lack of response is not rejection."
+      },
+      {
+        "stage": "Urge",
+        "text": "Pause instead of reacting immediately."
+      }
+    ]
+  },
+  {
+    "id": "comparison",
+    "title": "Someone else is ahead",
+    "steps": [
+      { "label": "Trigger", "text": "You see someone else progressing faster." },
+      { "label": "Interpretation", "text": "I am falling behind." },
+      { "label": "Emotion", "text": "Pressure mixed with inadequacy." },
+      { "label": "Urge", "text": "Rush decisions and overwork." },
+      { "label": "Behavior", "text": "Abandon your own pace and priorities." },
+      { "label": "Consequence", "text": "Burnout and shallow progress." },
+      { "label": "Belief", "text": "My worth depends on keeping up." }
+    ],
+    "interruptions": [
+      {
+        "stage": "Interpretation",
+        "text": "Different timeline, different context."
+      },
+      {
+        "stage": "Behavior",
+        "text": "Return to one meaningful next step."
+      }
+    ]
+  },
+  {
+    "id": "certainty",
+    "title": "I need to know what will happen",
+    "steps": [
+      { "label": "Trigger", "text": "An uncertain outcome is approaching." },
+      { "label": "Interpretation", "text": "If I do not predict it, I am unsafe." },
+      { "label": "Emotion", "text": "Hypervigilance and unease." },
+      { "label": "Urge", "text": "Analyze every possible scenario." },
+      { "label": "Behavior", "text": "Over-plan and delay taking action." },
+      { "label": "Consequence", "text": "Exhaustion with little momentum." },
+      { "label": "Belief", "text": "Uncertainty is dangerous." }
+    ],
+    "interruptions": [
+      {
+        "stage": "Interpretation",
+        "text": "Uncertainty is information still loading."
+      },
+      {
+        "stage": "Urge",
+        "text": "Choose one controllable action now."
+      }
+    ]
+  },
+  {
+    "id": "enoughness",
+    "title": "What if I’m not enough?",
+    "steps": [
+      { "label": "Trigger", "text": "Feedback feels ambiguous or delayed." },
+      { "label": "Interpretation", "text": "I am not enough." },
+      { "label": "Emotion", "text": "Shame and withdrawal." },
+      { "label": "Urge", "text": "Hide, over-prepare, or seek proof." },
+      { "label": "Behavior", "text": "Silence your voice or people-please." },
+      { "label": "Consequence", "text": "Needs stay unspoken and unmet." },
+      { "label": "Belief", "text": "I must earn belonging." }
+    ],
+    "interruptions": [
+      {
+        "stage": "Interpretation",
+        "text": "This feeling is old, not always true."
+      },
+      {
+        "stage": "Behavior",
+        "text": "Share one honest sentence anyway."
+      }
+    ]
+  },
+  {
+    "id": "rumination",
+    "title": "Why did I do that?",
+    "steps": [
+      { "label": "Trigger", "text": "You replay a moment that felt wrong." },
+      { "label": "Interpretation", "text": "I ruined everything." },
+      { "label": "Emotion", "text": "Regret and self-criticism." },
+      { "label": "Urge", "text": "Mentally re-run every detail." },
+      { "label": "Behavior", "text": "Ruminate and avoid repair." },
+      { "label": "Consequence", "text": "Time passes, tension grows." },
+      { "label": "Belief", "text": "Mistakes define me." }
+    ],
+    "interruptions": [
+      {
+        "stage": "Interpretation",
+        "text": "A mistake is data, not identity."
+      },
+      {
+        "stage": "Consequence",
+        "text": "Repair one part instead of reliving all."
+      }
+    ]
+  }
+]
