@@ -7,6 +7,7 @@ import LoopVisualization from "./components/LoopVisualization";
 import StepDetailPanel from "./components/StepDetailPanel";
 import BreakModeToggle from "./components/BreakModeToggle";
 import ReflectionSection from "./components/ReflectionSection";
+import ThoughtLoopExplorerLab from "./components/thought-loop-lab/ThoughtLoopExplorerLab";
 import { STEP_ORDER } from "./lib/loopTheme";
 
 export default function App() {
@@ -98,6 +99,7 @@ export default function App() {
         </section>
 
         <ReflectionSection />
+        <ThoughtLoopExplorerLab />
       </main>
     </div>
   );

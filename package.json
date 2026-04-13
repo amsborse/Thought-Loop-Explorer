@@ -11,7 +11,8 @@
   "dependencies": {
     "framer-motion": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "reactflow": "^11.11.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.2",
